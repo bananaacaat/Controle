@@ -25,7 +25,7 @@ This project is built using the following technologies and tools:
 Here are some screenshots of the project in action:
 
 #### DATA BASE
-![image](https://github.com/bananaacaat/Controle/assets/147453939/85fe9640-9b44-48f2-ae09-9445a5bae39e)
+![image](https://github.com/bananaacaat/Controle/assets/147453939/f37e574b-790a-4eb3-8003-b0f11d2eab67)
 
  
 #### GET Atelier
