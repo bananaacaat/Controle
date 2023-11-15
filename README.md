@@ -40,7 +40,8 @@ Here are some screenshots of the project in action:
 ![image](https://github.com/bananaacaat/Controle/assets/147453939/80c7d1cc-c373-433e-a1a5-2f8ee76160b5)
 
 #### FiltrebyDate 
-![image](https://github.com/bananaacaat/Controle/assets/147453939/7a912ac6-bc1d-4d57-8758-15ebd66b84c1)
+![image](https://github.com/bananaacaat/Controle/assets/147453939/69bf5946-097d-4d68-bff3-e3ab8f0260f9)
+
 
 #### GET Categorie
 ![image](https://github.com/bananaacaat/Controle/assets/147453939/bb28034c-573f-4750-b2c8-bbcd70662b23)
@@ -51,6 +52,10 @@ Here are some screenshots of the project in action:
 
 #### DELETE Categorie
 ![image](https://github.com/bananaacaat/Controle/assets/147453939/569006ba-501e-4952-af20-9cb56c942f02)
+
+#### FilterbyCategorie
+![image](https://github.com/bananaacaat/Controle/assets/147453939/1314d5a9-0b0c-4640-9a9f-f52da2f441d1)
+
 
 
 
